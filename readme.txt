@@ -1,2 +1,2 @@
  reading and test...
-mmaddddd
+mmdi
